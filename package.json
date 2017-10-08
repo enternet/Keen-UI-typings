@@ -1,0 +1,24 @@
+{
+  "name": "@types/keen-ui",
+  "version": "1.0.0",
+  "description": "Typings for Keen-UI - A lightweight collection of essential UI components written with Vue and inspired by Material Design",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enternet/Keen-UI-typings.git"
+  },
+  "keywords": [
+    "keen-ui",
+    "typescript",
+    "typings"
+  ],
+  "author": "Pavel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enternet/Keen-UI-typings/issues"
+  },
+  "homepage": "https://github.com/enternet/Keen-UI-typings#readme"
+}

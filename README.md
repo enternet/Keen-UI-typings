@@ -1,1 +1,1 @@
-# Keen-UI-typings
+# Keen-UI typings
